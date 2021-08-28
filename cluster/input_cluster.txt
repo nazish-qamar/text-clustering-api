@@ -1,0 +1,7 @@
+id,text
+1,"Love is like the wind, you can’t see it but you can feel it."
+2,"It’s Monday… time to motivate and make dreams and goals happen. Let’s go!"
+3,"All Motivation Mondays need are a little more coffee and a lot more mascara"
+4,"When life gives you Monday, dip it in glitter and sparkle all day."
+5,"Love ceases to be a pleasure when it ceases to be a secret."
+6,"Motivation is what gets you started. Habit is what keeps you going."
