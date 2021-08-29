@@ -3,7 +3,7 @@
 """
 Created on Thu Aug 26 14:05:40 2021
 
-@author: rocki
+@author: nazish
 """
 from stemming.porter2 import stem
 import numpy as np
@@ -104,7 +104,7 @@ def cluster():
     memory_file.seek(0)
     response = make_response(send_file(memory_file, attachment_filename='cluster_output.zip',
                                        as_attachment=True))
-    response.headers['Access-Control-Allow-Origin'] = '*' #API deployed at one IP addr. and we want to call from another IP add.
+    response.headers['Access-Control-Allow-Origin'] = '*' #API deployed at one IP addr. and we want to call from another IP addr.
     return response
     
 if __name__=='__main__':
